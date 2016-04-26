@@ -1,0 +1,35 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Documentation administrateur}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Utiliser le tableau de bord}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Cr\IeC {\'e}er la hi\IeC {\'e}rarchie universitaire}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Mentions}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Sp\IeC {\'e}cialit\IeC {\'e}s}{4}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Parcours}{4}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Cr\IeC {\'e}er les p\IeC {\'e}riodes}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}D\IeC {\'e}finir les enseignements}{5}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Cr\IeC {\'e}er les modules (unit\IeC {\'e}s d'enseignement)}{5}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Associer des groupes aux modules}{5}{subsection.1.4.2}
+\contentsline {subsubsection}{Notion de groupes obligatoires}{6}{subsubsection*.3}
+\contentsline {section}{\numberline {1.5}G\IeC {\'e}rer les utilisateurs}{6}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Filtres et tris}{6}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Valider les utilisateurs}{6}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Modifier le mot de passe d'un utilisateur}{7}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Consulter les choix d'un utilisateur}{7}{subsection.1.5.4}
+\contentsline {chapter}{\numberline {2}Documentation professeur/secr\IeC {\'e}tariat}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Afficher la synth\IeC {\`e}se}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Synth\IeC {\`e}se par groupe}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Synth\IeC {\`e}se par utilisateur}{9}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}T\IeC {\'e}l\IeC {\'e}charger une feuille d'\IeC {\'e}margement}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Par parcours}{10}{subsection.2.2.1}
+\contentsline {subsubsection}{Classeur (une feuille par parcours)}{10}{subsubsection*.4}
+\contentsline {subsubsection}{Feuille (un parcours)}{11}{subsubsection*.5}
+\contentsline {subsection}{\numberline {2.2.2}Par module}{11}{subsection.2.2.2}
+\contentsline {subsubsection}{Classeur (tous les modules d'une promotion)}{11}{subsubsection*.6}
+\contentsline {subsubsection}{Feuille (un module)}{11}{subsubsection*.7}
+\contentsline {section}{\numberline {2.3}Envoyer un email group\IeC {\'e}}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Pour les \IeC {\'e}tudiants d'un parcours}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Pour les \IeC {\'e}tudiants d'un module}{12}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}Documentation utilisateur}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}S'inscrire}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Se connecter}{16}{section.3.2}
+\contentsline {section}{\numberline {3.3}Faire ses choix}{16}{section.3.3}

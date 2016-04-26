@@ -1,0 +1,20 @@
+actor: Tester
+paths:
+    tests: tests
+    log: tmp/tests
+    data: tests/Fixture
+    helpers: src/TestSuite/Codeception
+settings:
+    bootstrap: bootstrap.php
+    colors: true
+    memory_limit: 1024M
+extensions:
+    enabled:
+        - Codeception\Extension\PhpBuiltinServer
+    config:
+        Codeception\Extension\PhpBuiltinServer:
+            hostname: localhost
+            port: 8765
+            documentRoot: webroot
+            startDelay: 1
+            phpIni: /etc/php5/apache2/php.ini

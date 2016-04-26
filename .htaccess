@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /inscriptions
+RewriteRule ^admin_mysql/ - [L]
+RewriteRule    ^$    webroot/    [L]
+RewriteRule    (.*) webroot/$1    [L]

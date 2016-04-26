@@ -1,0 +1,11 @@
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+/nbproject/private/
+/nbproject/project.properties
+/nbproject/project.xml
+tests/_output/*
+tests/_output/*
+tests/_output/*
+.idea

@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /inscriptions/webroot
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [L]
