@@ -18,6 +18,7 @@
         if($roles[$this->request->session()->read('Auth.User.role_id')] === 'Administrateur'){
             echo $this->Form->input('role_id',['label'=>'Rôle']);
             
+            //echo $this->Form->input('parcour_id', ['label' => 'Parcours']);
         
             foreach($periodes as $periode): ?>
                 <strong> <?= $periode['periode']->title ?> </strong>
