@@ -1,7 +1,7 @@
 <h2>Liste des utilisateurs
     <?= $this->Html->link('<i class="fa fa-check"></i> '.__('Valider les utilisateurs'), ['action' => 'valider'], ['class' => 'btn btn-success pull-right', 'role' => 'button', 'escape' => false]); ?>
-
-    <?= $this->Html->link('<i class="fa fa-plus"></i> '.__('Nouvelle utilisateur'), ['action' => 'inscription'], ['class' => 'btn btn-success pull-right', 'role' => 'button', 'escape' => false]); ?>
+        
+    <?= $this->Html->link('<i class="fa fa-plus"></i> '.__('Nouveau utilisateur'), ['action' => 'inscription'], ['style' =>'margin-right:5px','class' => 'btn btn-success pull-right', 'role' => 'button', 'escape' => false]); ?>
 </h2>
 <hr class="colorgraph">
 

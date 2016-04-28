@@ -20,6 +20,10 @@ class Module extends Entity {
         'title' => true,
         'periode' => true,
         'groupes' => true,
+		'nb_heures_cours' => true,
+		'nb_heures_td' => true,
+		'nb_heures_tp' => true,
+		'rermarque' => true,
     ];
 
     protected function _getFullTitle($title) {
@@ -29,6 +33,22 @@ class Module extends Entity {
 
     public function getFullTitle() {
         return $this->code . ' — ' . $this->title;
+    }
+	
+	public function getNbHeuresCours() {
+        return $this->nb_heures_cours ;
+    }
+	
+	public function getNbHeuresTd() {
+        return $this->nb_heures_td ;
+    }
+	
+	public function getNbHeuresTp() {
+        return $this->nb_heures_tp ;
+    }
+	
+	public function getRermarque() {
+        return $this->rermarque ;
     }
 
     public function getUtilisateursFromGroupes($module_id) {

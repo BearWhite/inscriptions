@@ -27,6 +27,9 @@ class Utilisateur extends Entity
         'role' => true,
         'parcour' => true,
         'groupes' => true,
+		'statut_id' => true,
+		'employeur_id' => true,
+		'nouveau' => true,
     ];
     
     protected function _setMotdepasse($motdepasse)
